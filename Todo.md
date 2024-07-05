@@ -9,7 +9,7 @@ cant select the smae items when sale entry twice okay
 
 <!-- major things  -->
 
-filter ko better karna hai aur date filter bhe dalna hai
+filter ko better karna hai aur date filter bhe dalna ha
 
 deleate update wale feature bhe dalne hai kai jagha okay
 
